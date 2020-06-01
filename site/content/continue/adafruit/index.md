@@ -9,3 +9,4 @@ link: https://learn.adafruit.com/adafruit-circuit-playground-express
 ---
 
 > [Adafruit Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express)
+> [Adafruit Learning System for CPX](https://learn.adafruit.com/category/express)
